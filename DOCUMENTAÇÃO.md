@@ -31,4 +31,22 @@
 
 
 
+## RESPONSIVIDADE
+### O projeto utiliza recursos do Bootstrap para adaptar o conteúdo para diferentes tamanhos de tela. O menu e as colunas se reorganizam quando o site é acessado pelo celular.
+
+
+## ACESSIBILIDADE
+### . Títulos seguem uma ordem organizada
+### . Textos possuem contraste com o fundo
+
+
+
+## DECISÕES DE UX
+### . Manter menu no topo da pagina
+### . Utilizar botões fáceis de entender
+
+## MELHORIAS FUTURAS
+### Futuramente incluir vídeos, relatos e adquirir mais formas de cumprir o nosso objetivo
+
+
 
